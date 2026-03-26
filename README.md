@@ -106,8 +106,4 @@ A central hub for managing your research environment.
 * [Spectra-Pro Website](https://spectra-pro-tool.web.app/)
 * [Spectra-Pro Youtube Channel](https://www.youtube.com/@spectra-tool)
 ---
-## 📄 License
-This project is licensed under the [Commercial License](https://spectra-pro-tool.web.app/license.html).
-
----
 *Built with ❤️ by the Spectra-Pro Team for Security Research.*
